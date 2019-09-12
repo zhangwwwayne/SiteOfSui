@@ -16,5 +16,10 @@ storage/*.key
 Homestead.yaml
 Homestead.json
 
+# Laravel 6
+.env.backup
+.phpunit.result.cache
+yarn-error.log
+
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
